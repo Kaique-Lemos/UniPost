@@ -3,7 +3,7 @@
 ## 📖 Descrição
 UniPost é a aplicação frontend do sistema de cadastro de alunos, desenvolvida em **React (Vite)** e estilizada com **Tailwind CSS** e **shadcn/ui**.
 
-Esta interface consome a [API do UniPost_Api (backend)](https://github.com/Crystian-Paz/UniPost_Api), permitindo ao usuário cadastrar, listar, editar e excluir alunos. O design é totalmente responsivo, adaptando-se a diferentes dispositivos.
+Esta interface consome a [API do UniPost_Api (backend)](https://github.com/Kaique-Lemos/UniPost-API.git), permitindo ao usuário cadastrar, listar, editar e excluir alunos. O design é totalmente responsivo, adaptando-se a diferentes dispositivos.
 
 ---
 
@@ -133,5 +133,5 @@ O layout foi totalmente construído com **Tailwind CSS**, garantindo uma interfa
 ---
 
 ## 🔗 Links
-- **Backend (UniPost_Api)**: [https://github.com/Crystian-Paz/UniPost_Api](https://github.com/Crystian-Paz/UniPost_Api)  
+- **Backend (UniPost_Api)**: [https://github.com/Crystian-Paz/UniPost_Api](https://github.com/Kaique-Lemos/UniPost-API.git)  
 - **Frontend (UniPost)**: [https://github.com/Crystian-Paz/UniPost](https://github.com/Crystian-Paz/UniPost)
