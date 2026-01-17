@@ -129,9 +129,3 @@ O layout foi totalmente construído com **Tailwind CSS**, garantindo uma interfa
 💼 Projeto de aplicação web (Django + React)  
 📚 Persistência de dados com SQLite  
 🗓️ 2025  
-
----
-
-## 🔗 Links
-- **Backend (UniPost_Api)**: [https://github.com/Crystian-Paz/UniPost_Api](https://github.com/Kaique-Lemos/UniPost-API.git)  
-- **Frontend (UniPost)**: [https://github.com/Crystian-Paz/UniPost](https://github.com/Crystian-Paz/UniPost)
