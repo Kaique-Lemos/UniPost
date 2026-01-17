@@ -52,7 +52,7 @@ UniPost/ (Frontend)
 
 O frontend consome os dados da API Django via Axios, oferecendo a interface para o usuário.
 
-**Pré-requisito:** Para que o frontend funcione, o [backend (UniPost_Api)](https://github.com/Crystian-Paz/UniPost_Api) deve estar rodando (normalmente em ```http://127.0.0.1:8000/```).
+**Pré-requisito:** Para que o frontend funcione, o [backend (UniPost_Api)](https://github.com/Kaique-Lemos/UniPost-API.git) deve estar rodando (normalmente em ```http://127.0.0.1:8000/```).
 
 1️⃣ Clonar o repositório:
 
@@ -87,7 +87,7 @@ Este repositório é **apenas o frontend**. O backend é um repositório separad
 
 Todas as instruções para configurar e rodar o backend (API) estão em seu próprio repositório:
 
-➡️ Repositório do Backend: [https://github.com/Crystian-Paz/UniPost_Api](https://github.com/Crystian-Paz/UniPost_Api)
+➡️ Repositório do Backend: [https://github.com/Kaique-Lemos/UniPost-API](https://github.com/Kaique-Lemos/UniPost-API.git)
 ##
 
 ## 🎨 Layout Responsivo
